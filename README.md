@@ -1,16 +1,14 @@
 # Adv Auto Filter Bot V2
 
-
+6
 
   
   
   <a href="https://github.com/https://github.com/Cinemavillaz/Adv-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
-
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)..__
+__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/Cinemavillaz/Adv-Auto-Filter-Bot)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -22,7 +20,7 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 * -> Add me to any group and make me admin<br>
 * -> Add me to your channel as admin with full previlages
 
-**Bot Commands (Works Only In Groups) :**
+**Bot Commands (Works Only In Groups) :**o
 
 
   * -> `/add chat_id`<br>
@@ -51,6 +49,8 @@ OR
 
     * -> Status - Button will show the stats of your current group
 
+@cv_group1
+
 ### Pre Requisites 
 ------------------
 * ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
@@ -66,7 +66,8 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+<i>**[Jóin Oúr Gróup...](https://www.telegram.dog/cv_group1) 
+   
 
 <details><summary>Deploy To Heroku</summary>
 <p>
